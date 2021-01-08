@@ -1,0 +1,28 @@
+.services {
+    margin-bottom: 2rem;
+}
+
+
+.services__item {
+    padding: 1.2rem;
+    height: 100%;
+    
+    background-color: $white;
+    border-radius: $radius;
+    box-shadow: $shadow;
+}
+
+.services__title {
+    padding-left: 5rem;
+
+    font-size: 1.4rem;
+    color: $black;
+    font-weight: 500;
+}
+
+.servicel__text {
+    font-size: 1rem;
+    color: $black;
+    font-weight: 400;
+    margin-top: 2rem;
+}
